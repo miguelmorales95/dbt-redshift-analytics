@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: trips_summary
+    columns:
+      - name: month
+        tests:
+          - not_null
+      - name: total_trips
+        tests:
+          - not_null
