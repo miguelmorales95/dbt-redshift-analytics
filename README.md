@@ -63,5 +63,3 @@ nyc_taxi_dbt_eda/
    - Run `dbt compile` to see generated SQL.
    - Use the analyses in `/analyses` to guide exploration.
 
----
-**License:** MIT
